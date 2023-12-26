@@ -1,4 +1,4 @@
-                                                        APPLE WEBSITE
+                         APPLE WEBSITE
 
 ##Apple website
 
