@@ -1,5 +1,7 @@
                                                                         APPLE WEBSITE
 
+##Apple website
+
 Welcome to our sleek and modern website dedicated to showcasing the latest Apple products. Designed with a focus on simplicity and responsiveness, our site ensures a seamless browsing experience across a variety of devices, including phones and tablets.
 
 Explore the cutting-edge world of Apple technology as we highlight premium products like the Mac, Watch, and iPhone. From the sleek design of the Mac to the innovative features of the Apple Watch and the powerful capabilities of the iPhone, our website provides a visually appealing and informative platform for Apple enthusiasts.
